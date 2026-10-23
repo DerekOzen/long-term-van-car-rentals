@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "pg-1",
+    "path": "/index",
+    "type": "page",
+    "title": "Long-Term Van & Car Hire Melbourne | Flexible Rentals | LTVCR",
+    "seoTitle": "Long-Term Van & Car Hire Melbourne | Flexible Rentals | LTVCR",
+    "seoDescription": "Long-term, short-term & daily van and car hire across Melbourne. Hyundai vans, 8-seater people movers & cars on flexible weekly & monthly rates. Melbourne-wide. Call 0435 800 248.",
+    "layout": "mockup",
+    "headerPartId": "header-1",
+    "footerPartId": "footer-1",
+    "status": "draft",
+    "createdAt": "2026-10-23T00:54:24.623Z",
+    "createdBy": "joshua",
+    "updatedAt": "2026-10-23T00:54:24.623Z",
+    "updatedBy": "joshua"
+  }
+]
