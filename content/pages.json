@@ -189,8 +189,9 @@
     "status": "published",
     "createdAt": "2026-10-23T02:10:05.077Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-23T02:11:48.731Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-10-25T23:17:38.409Z",
+    "updatedBy": "joshua",
+    "noindex": true
   },
   {
     "id": "pg-17",
