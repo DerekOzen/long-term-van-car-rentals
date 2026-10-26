@@ -1,0 +1,75 @@
+{
+  "batches": [
+    {
+      "batchId": "csg-mvov2pgd-2kjc",
+      "at": "2026-10-26T06:14:05.149Z",
+      "count": 16,
+      "changes": [
+        {
+          "path": "/",
+          "newRecordId": "SCHEMA-017587FD"
+        },
+        {
+          "path": "/about",
+          "newRecordId": "SCHEMA-BFF2B04F"
+        },
+        {
+          "path": "/contact-halam",
+          "newRecordId": "SCHEMA-EA5D7C53"
+        },
+        {
+          "path": "/book-now-halam",
+          "newRecordId": "SCHEMA-4E3B76DB"
+        },
+        {
+          "path": "/vehicle-hallam",
+          "newRecordId": "SCHEMA-4021D6DE"
+        },
+        {
+          "path": "/long-term-van-hire-melbourne",
+          "newRecordId": "SCHEMA-F581EB83"
+        },
+        {
+          "path": "/long-term-car-hire-melbourne",
+          "newRecordId": "SCHEMA-9F1735CE"
+        },
+        {
+          "path": "/people-mover-hire-melbourne",
+          "newRecordId": "SCHEMA-7F2D6D9B"
+        },
+        {
+          "path": "/business-van-hire-melbourne",
+          "newRecordId": "SCHEMA-42CE1321"
+        },
+        {
+          "path": "/monthly-vehicle-hire-melbourne",
+          "newRecordId": "SCHEMA-D2E63420"
+        },
+        {
+          "path": "/hyundai-iload",
+          "newRecordId": "SCHEMA-E397ED32"
+        },
+        {
+          "path": "/hyundai-imax-8-seater-hire",
+          "newRecordId": "SCHEMA-91828C07"
+        },
+        {
+          "path": "/hyundai-ix35-suv-hire",
+          "newRecordId": "SCHEMA-4AC43D37"
+        },
+        {
+          "path": "/hyundai-i30-hire",
+          "newRecordId": "SCHEMA-5449E708"
+        },
+        {
+          "path": "/hyundai-i40-hire",
+          "newRecordId": "SCHEMA-A7B93BDB"
+        },
+        {
+          "path": "/long-term-van-ca-rentals-blog",
+          "newRecordId": "SCHEMA-4494D54A"
+        }
+      ]
+    }
+  ]
+}
