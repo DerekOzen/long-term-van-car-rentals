@@ -9,12 +9,12 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-23T01:50:14.211Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T00:25:47.454Z",
-    "updatedBy": "sebastian",
-    "isHome": true,
+    "updatedAt": "2026-11-16T06:58:30.186Z",
+    "updatedBy": "joshua",
+    "isHome": false,
     "featuredImage": "/uploads/featured-long-term-van-car-hire-melbourne-flexible-rentals--difyq.webp",
     "featuredImageAlt": "Long-term van & car hire across Melbourne"
   },
@@ -28,13 +28,14 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-23T02:01:35.975Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T00:26:00.155Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-11-16T06:58:30.186Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/featured-about-ltvcr-long-term-van-car-hire-melbourne-diq78.webp",
-    "featuredImageAlt": "About Long Term Van & Car Rentals"
+    "featuredImageAlt": "About Long Term Van & Car Rentals",
+    "isHome": false
   },
   {
     "id": "pg-6",
@@ -46,13 +47,14 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-23T02:01:35.975Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T00:26:10.860Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-11-16T06:58:30.186Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/featured-get-a-quote-long-term-van-car-hire-melbourne-ltvcr-diy1y.webp",
-    "featuredImageAlt": "Get a Hire Quote"
+    "featuredImageAlt": "Get a Hire Quote",
+    "isHome": false
   },
   {
     "id": "pg-7",
@@ -64,13 +66,14 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-23T02:01:35.975Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T00:26:41.527Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-11-16T06:58:30.186Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/featured-hyundai-i30-hire-melbourne-long-term-hatchback-ren-djlyu.webp",
-    "featuredImageAlt": "Hyundai i30 Hatchback Hire in Melbourne"
+    "featuredImageAlt": "Hyundai i30 Hatchback Hire in Melbourne",
+    "isHome": false
   },
   {
     "id": "pg-8",
@@ -82,13 +85,14 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-23T02:01:35.975Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T00:26:52.289Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-11-16T06:58:30.186Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/featured-hyundai-i40-hire-melbourne-long-term-sedan-rental--djugp.webp",
-    "featuredImageAlt": "Hyundai i40 Sedan Hire in Melbourne"
+    "featuredImageAlt": "Hyundai i40 Sedan Hire in Melbourne",
+    "isHome": false
   },
   {
     "id": "pg-9",
@@ -100,13 +104,14 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-23T02:01:35.975Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T00:27:03.679Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-11-16T06:58:30.186Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/featured-hyundai-iload-van-hire-melbourne-long-term-from-10-dk38e.webp",
-    "featuredImageAlt": "Hyundai iLoad Van Hire in Melbourne"
+    "featuredImageAlt": "Hyundai iLoad Van Hire in Melbourne",
+    "isHome": false
   },
   {
     "id": "pg-10",
@@ -118,13 +123,14 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-23T02:10:05.077Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T00:27:15.035Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-11-16T06:58:30.186Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/featured-hyundai-imax-hire-melbourne-long-term-8-seater-peo-dkbxp.webp",
-    "featuredImageAlt": "Hyundai iMax 8-Seater Hire in Melbourne"
+    "featuredImageAlt": "Hyundai iMax 8-Seater Hire in Melbourne",
+    "isHome": false
   },
   {
     "id": "pg-11",
@@ -136,13 +142,14 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-23T02:10:05.077Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T00:27:26.336Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-11-16T06:58:30.186Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/featured-hyundai-ix35-hire-melbourne-long-term-suv-rental-l-dkk8p.webp",
-    "featuredImageAlt": "Hyundai iX35 SUV Hire in Melbourne"
+    "featuredImageAlt": "Hyundai iX35 SUV Hire in Melbourne",
+    "isHome": false
   },
   {
     "id": "pg-12",
@@ -154,13 +161,14 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-23T02:10:05.077Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T00:27:37.073Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-11-16T06:58:30.186Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/featured-long-term-car-hire-melbourne-weekly-monthly-car-re-dksxi.webp",
-    "featuredImageAlt": "Long-Term Car Hire in Melbourne"
+    "featuredImageAlt": "Long-Term Car Hire in Melbourne",
+    "isHome": false
   },
   {
     "id": "pg-13",
@@ -172,13 +180,14 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-23T02:10:05.077Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T00:27:58.557Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-11-16T06:58:30.186Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/featured-long-term-van-hire-melbourne-commercial-van-rental-dl94v.webp",
-    "featuredImageAlt": "Long-Term Van Hire in Melbourne"
+    "featuredImageAlt": "Long-Term Van Hire in Melbourne",
+    "isHome": false
   },
   {
     "id": "pg-15",
@@ -190,13 +199,14 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-23T02:10:05.077Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T00:28:20.281Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-11-16T06:58:30.186Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/featured-people-mover-hire-melbourne-8-seater-imax-from-100-dlq7z.webp",
-    "featuredImageAlt": "8-Seater People Mover Hire in Melbourne"
+    "featuredImageAlt": "8-Seater People Mover Hire in Melbourne",
+    "isHome": false
   },
   {
     "id": "pg-16",
@@ -208,12 +218,13 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-23T02:10:05.077Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-25T23:17:38.409Z",
+    "updatedAt": "2026-11-16T06:58:30.186Z",
     "updatedBy": "joshua",
-    "noindex": true
+    "noindex": true,
+    "isHome": false
   },
   {
     "id": "pg-17",
@@ -225,13 +236,14 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-23T02:10:05.077Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T00:28:37.279Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-11-16T06:58:30.186Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/featured-our-fleet-long-term-van-people-mover-car-hire-melb-dm34x.webp",
-    "featuredImageAlt": "Our Fleet — Long-Term Hire in Melbourne"
+    "featuredImageAlt": "Our Fleet — Long-Term Hire in Melbourne",
+    "isHome": false
   },
   {
     "id": "pg-14",
@@ -243,13 +255,14 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-23T02:44:25.382Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T00:27:47.868Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-11-16T06:58:30.186Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/featured-blog-guides-long-term-van-car-hire-melbourne-ltvcr-dl19w.webp",
-    "featuredImageAlt": "LTVCR Blog & Guides"
+    "featuredImageAlt": "LTVCR Blog & Guides",
+    "isHome": false
   },
   {
     "id": "pg-18",
@@ -261,13 +274,14 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-23T02:44:25.382Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T00:26:20.851Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-11-16T06:58:30.186Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/featured-business-trade-van-hire-melbourne-long-term-commer-dj67k.webp",
-    "featuredImageAlt": "Business & Trade Van Hire in Melbourne"
+    "featuredImageAlt": "Business & Trade Van Hire in Melbourne",
+    "isHome": false
   },
   {
     "id": "pg-19",
@@ -279,13 +293,14 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-23T02:44:25.382Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T00:26:30.900Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-11-16T06:58:30.186Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/featured-contact-ltvcr-long-term-van-car-hire-melbourne-djdvq.webp",
-    "featuredImageAlt": "Contact LTVCR"
+    "featuredImageAlt": "Contact LTVCR",
+    "isHome": false
   },
   {
     "id": "pg-20",
@@ -297,12 +312,13 @@
     "layout": "mockup",
     "headerPartId": "header-1",
     "footerPartId": "footer-1",
-    "status": "published",
+    "status": "deleted",
     "createdAt": "2026-10-23T02:44:25.382Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-10-28T00:28:09.333Z",
-    "updatedBy": "sebastian",
+    "updatedAt": "2026-11-16T06:58:30.186Z",
+    "updatedBy": "joshua",
     "featuredImage": "/uploads/featured-monthly-vehicle-hire-melbourne-van-people-mover-ca-dlhq3.webp",
-    "featuredImageAlt": "Monthly Vehicle Hire in Melbourne"
+    "featuredImageAlt": "Monthly Vehicle Hire in Melbourne",
+    "isHome": false
   }
 ]
