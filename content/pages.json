@@ -323,7 +323,7 @@
   },
   {
     "id": "pg-21",
-    "path": "/index",
+    "path": "/",
     "type": "page",
     "title": "Long-Term Van & Car Hire Melbourne | Flexible Rentals | LTVCR",
     "seoTitle": "Long-Term Van & Car Hire Melbourne | Flexible Rentals | LTVCR",
@@ -331,10 +331,11 @@
     "layout": "mockup",
     "headerPartId": "header-2",
     "footerPartId": "footer-2",
-    "status": "draft",
+    "status": "published",
     "createdAt": "2026-11-16T07:07:34.958Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-16T07:07:34.958Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-16T07:08:50.286Z",
+    "updatedBy": "joshua",
+    "isHome": true
   }
 ]
