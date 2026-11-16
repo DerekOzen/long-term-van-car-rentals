@@ -735,8 +735,9 @@
     "status": "published",
     "createdAt": "2026-11-16T07:18:24.666Z",
     "createdBy": "joshua",
-    "updatedAt": "2026-11-16T07:19:07.514Z",
-    "updatedBy": "joshua"
+    "updatedAt": "2026-11-16T07:32:51.758Z",
+    "updatedBy": "joshua",
+    "noindex": true
   },
   {
     "id": "pg-47",
